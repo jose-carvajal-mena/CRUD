@@ -1,5 +1,4 @@
-# CRUD
-Ajustes para la ejecucion de nuestro CRUD
+# Ajustes para la ejecucion de nuestro CRUD
 
 Una vez que hemos clonado nuestro proyecto lo abriremos en nuestro editor que utilizemos, en mi caso Visual Studio Code.
 
