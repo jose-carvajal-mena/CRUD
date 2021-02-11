@@ -7,7 +7,7 @@ Luego para que nuestro proyecto funcione abriremos la consola/terminal y descarg
   
   - npm install nodemon -D
   
-Ya por ultimo una vez clonado nuestro repositorio y instaladas las dependencias para ejecutarlo usamos el siguiente comando.
+Ya por ultimo una vez clonado nuestro proyecto y instaladas las dependencias para ejecutarlo usamos el siguiente comando.
   - npm run dev
 
   
